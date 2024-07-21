@@ -1,0 +1,8 @@
+.head {
+    background-color: #db8585;
+    color: #a05b5b;
+    padding: 16px;
+    margin: center;
+    display: block;
+    unicode-bidi: isolate;
+}
